@@ -1,1 +1,1 @@
-board = array
+board_array =
