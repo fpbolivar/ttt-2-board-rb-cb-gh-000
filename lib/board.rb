@@ -1,1 +1,1 @@
-board_array =
+board = "board"
